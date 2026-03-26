@@ -228,11 +228,3 @@ ansible/
 ```
 
 ---
-
-## References
-
-- [Ansible Documentation](https://docs.ansible.com/)
-- [Grafana Installation Guide](https://grafana.com/docs/grafana/latest/setup-grafana/installation/)
-- [Prometheus Download Page](https://prometheus.io/download/)
-- [Node Exporter GitHub](https://github.com/prometheus/node_exporter)
-- [Project Repository](https://github.com/kasturi-thanusha/ansible-monitoring-stack)
